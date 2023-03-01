@@ -1,4 +1,4 @@
-if 5 >= 5
+if 5 > 1
 print ("HELLO PYTHON!")
 
 else if 5 => 2
