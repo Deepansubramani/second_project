@@ -1,8 +1,8 @@
 if 5 > 1
 print ("HELLO PYTHON!")
-
-else if 5 => 2
-
+else 5 != 0
+print("fales")
+else  5 => 2
  print("true") 
 
  
